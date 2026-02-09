@@ -1,0 +1,17 @@
+# Entornos
+venv/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Outputs / logs
+outputs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
