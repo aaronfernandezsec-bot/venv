@@ -15,3 +15,11 @@ outputs/
 .vscode/
 .idea/
 .DS_Store
+
+# secretos
+config/credentials.yml
+
+tools/
+outputs/
+venv/
+config/credentials.yml
