@@ -1,7 +1,7 @@
 
 ---
 
-## 2️⃣ Script automático (opcional pero PRO)
+## 2️⃣ Script automático
 
 Esto hace que **una sola instrucción** prepare todo.
 
